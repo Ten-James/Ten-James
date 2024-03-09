@@ -1,6 +1,10 @@
 # ten-james 
 
-A high school student, who just likes to code.<br>
+<h1 align="center">
+	<img src="james.png" alt="Ten james image">
+</h1>
+
+An University student, who just likes to code.<br>
 
 ## Socials:
 
@@ -8,11 +12,15 @@ A high school student, who just likes to code.<br>
 
 ## My work:
 
-![Matapp](https://github.com/Ten-James/matapp)
+[Czechtina](https://github.com/Ten-James/czechtina)
+
+- My custom language compilers and utils created using kotlin.
+
+[Matapp](https://github.com/Ten-James/matapp)
 
 - Restaurant system created in react.
 
-![Unsplarty](https://github.com/Ten-James/Unsplarty)
+[Unsplarty](https://github.com/Ten-James/Unsplarty)
 
 - Party game for guessing images using Usplash API
 
