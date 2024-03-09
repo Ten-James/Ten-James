@@ -1,14 +1,15 @@
-# ten-james 
-
 <h1 align="center">
 	<img src="james.png" alt="Ten james image">
 </h1>
 
-An University student, who just likes to code.<br>
+An University student, who just likes to code.
+
 
 ## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakub-indrak) 
+
+[![](https://visitcount.itsvg.in/api?id=ten-james&icon=2&color=4)](https://visitcount.itsvg.in)
 
 ## My work:
 
@@ -34,5 +35,5 @@ An University student, who just likes to code.<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ten-james&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ten-james&icon=2&color=4)](https://visitcount.itsvg.in)
+
 
